@@ -1,0 +1,20 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+DerivedData/
+*.ipa
+*.xcarchive
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+.Trashes
+.Spotlight-V100
+
+# Config (user-specific, not committed)
+~/.config/loupedeck-music/
