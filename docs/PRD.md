@@ -107,7 +107,7 @@ US-08  As a user, I receive visual feedback on the console when a track changes
 ## 5. System Architecture
 
 > **Source file:** [`docs/architecture.excalidraw`](architecture.excalidraw) — open with [Excalidraw](https://excalidraw.com) (File → Open) or the VS Code Excalidraw extension.
-> **Live link (may expire):** [View on excalidraw.com](https://excalidraw.com/#json=UA3vx7LUlAg2WD8c75D6B,MxoxYCnhoMVmq4k8Rpo68g)
+> **Live link (may expire):** [View on excalidraw.com]([https://excalidraw.com/#json=EZqRA3UZvmoqfon878vmh,aLdLzgwXfhbtP4vYtPOuCw])
 
 ```
 ┌──────────────────────────────────────────────────────┐
