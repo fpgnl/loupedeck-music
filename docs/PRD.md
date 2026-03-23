@@ -106,6 +106,8 @@ US-08  As a user, I receive visual feedback on the console when a track changes
 
 ## 5. System Architecture
 
+> **Interactive diagram:** [View on Excalidraw](https://excalidraw.com/#json=_j08B1flC7Gkb8GkxL0y7,Bwc0eKtBNhPqIag8t7YqlA)
+
 ```
 ┌──────────────────────────────────────────────────────┐
 │  Loupedeck Live (hardware)                           │
