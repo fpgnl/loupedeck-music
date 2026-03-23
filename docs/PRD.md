@@ -106,7 +106,7 @@ US-08  As a user, I receive visual feedback on the console when a track changes
 
 ## 5. System Architecture
 
-> **Interactive diagram:** [View on Excalidraw](https://excalidraw.com/#json=Nf2elEZPRw0_1pjPej1JU,kIvNun5kp8CxcrjZmgP0ZA)
+> **Interactive diagram:** [View on Excalidraw](https://excalidraw.com/#json=UA3vx7LUlAg2WD8c75D6B,MxoxYCnhoMVmq4k8Rpo68g)
 
 ```
 ┌──────────────────────────────────────────────────────┐
